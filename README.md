@@ -4,9 +4,9 @@
 
 ---
 
-- 👋 Hi, I’m @lenard-cavalry
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning none
+- 👋 Hi, I’m @lenard-dumalagan
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
