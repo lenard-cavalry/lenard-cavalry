@@ -12,4 +12,4 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenard-cavalry&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenard-dumalagan&show_icons=true&theme=tokyonight)
