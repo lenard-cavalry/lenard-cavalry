@@ -1,15 +1,15 @@
 <img align="center" alt="hi" height="200" src="https://i.pinimg.com/originals/21/6c/ae/216caedaa787f61711d8553ea46c2169.gif" />
 
-### Hi, I'm Lenard Viloria Dumalagan
+## Lenard Viloria Dumalagan
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Asceoft+Engineer)](https://git.io/typing-svg)
 
 ---
 
-- 👋 Hi, I’m @lenard-dumalagan
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning fullstack web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lenard-dumalagan&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
 
----
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenard-dumalagan&show_icons=true&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=lenard-dumalagan&color=red&style=flat-square)
+
+
+
