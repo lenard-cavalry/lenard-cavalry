@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&pause=1000&color=F70F00&center=true&vCenter=true&width=435&lines=TypeScript+Engineer;MERN+Stack+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&pause=1000&color=F70F00&vCenter=true&width=435&lines=TypeScript+Engineer;MERN+Stack+Engineer)](https://git.io/typing-svg)
+
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lenard-dumalagan&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
