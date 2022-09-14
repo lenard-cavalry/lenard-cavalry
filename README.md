@@ -4,7 +4,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lenard-dumalagan&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
 
-codewars badge: <img align="center" alt="codewars" src="https://www.codewars.com/users/lenard-dumalagan/badges/large" />
+<img align="center" alt="codewars" src="https://www.codewars.com/users/lenard-dumalagan/badges/large" />
 
 
 ![](https://komarev.com/ghpvc/?username=lenard-dumalagan&color=red&style=flat-square)
