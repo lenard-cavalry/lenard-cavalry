@@ -34,4 +34,5 @@
 
 <img align="center" alt="sharinggan" height="200" src="https://user-images.githubusercontent.com/93557986/190094582-24d900ec-e8fd-4fde-951a-045255698270.gif" />
 
-<img align="center" alt="codewars" src="https://www.codewars.com/users/lenard-dumalagan/badges/large" />
+## Code Wars Badge: <img align="center" alt="codewars" src="https://www.codewars.com/users/lenard-dumalagan/badges/large" />
+
