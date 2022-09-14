@@ -5,22 +5,19 @@
     <tbody>
         <tr>
             <td>
-            <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
+            <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
             </td>
             <td>
-            <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
-            </td>
+            <img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
+            </td> 
             <td>
             <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
             </td>
             <td>
             <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
-            </td>  
+            </td>   
             <td>
-            <img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
-            </td>     
-            <td>
-            <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
+            <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
             </td>
         </tr>
     </tbody>
