@@ -8,7 +8,7 @@
 
 ---
 
-### most used language:
+### most used languages:
 <img align="center" alt="top-language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenard-dumalagan&layout=compact" />
 
 ---
