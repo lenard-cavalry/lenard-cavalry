@@ -16,5 +16,5 @@
    <img align="center" alt="sharinggan" height="200" src="https://user-images.githubusercontent.com/93557986/190094582-24d900ec-e8fd-4fde-951a-045255698270.gif" />
    <br />
    <br />
-   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts" />
+   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,git" />
 </p>
