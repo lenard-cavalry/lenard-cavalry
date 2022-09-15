@@ -1,5 +1,5 @@
 
-<img align="center" alt="header" src="https://readme-typing-svg.demolab.com?font=sans-serif&pause=1000&color=F70F00&vCenter=true&width=435&lines=TypeScript+Engineer;MERN+Stack+Engineer" />
+<img align="center" alt="header" src="https://readme-typing-svg.demolab.com?font=sans-serif&pause=1000&color=F70F00&vCenter=true&width=435&lines=MERN+Stack+Engineer" />
 
 ---
 
