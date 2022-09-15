@@ -18,7 +18,7 @@
 
 ---
 
-### skils: 
+### skills: 
 <p align="left">
    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,git" />
 </p>
