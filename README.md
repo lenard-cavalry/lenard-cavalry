@@ -20,7 +20,7 @@
 
 ### skills: 
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,git" />
+   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts" />
 </p>
 
 ---
