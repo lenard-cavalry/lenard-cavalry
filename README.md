@@ -13,11 +13,6 @@
 
 ---
 
-### profile views:
-<img align="center" alt="views" src="https://komarev.com/ghpvc/?username=lenard-dumalagan&color=red&style=flat-square" />
-
----
-
 ### skills: 
 <p align="left">
    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts" />
@@ -26,3 +21,8 @@
 ---
 
 <img align="center" alt="anya" height="200" src="https://user-images.githubusercontent.com/93557986/190307489-7e958078-010a-4614-9608-cd96bca03add.gif" />
+
+---
+
+### profile views:
+<img align="center" alt="views" src="https://komarev.com/ghpvc/?username=lenard-dumalagan&color=red&style=flat-square" />
