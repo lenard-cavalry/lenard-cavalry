@@ -1,5 +1,9 @@
 
+
+---
+
 <img align="center" alt="header" src="https://readme-typing-svg.demolab.com?font=sans-serif&pause=1000&width=435&lines=Software+Engineer" />
+<img align="center" alt="anya" height="200" src="https://user-images.githubusercontent.com/93557986/190307489-7e958078-010a-4614-9608-cd96bca03add.gif" />
 
 ---
 
@@ -17,10 +21,6 @@
 <p align="left">
    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts" />
 </p>
-
----
-
-<img align="center" alt="anya" height="200" src="https://user-images.githubusercontent.com/93557986/190307489-7e958078-010a-4614-9608-cd96bca03add.gif" />
 
 ---
 
