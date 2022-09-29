@@ -9,7 +9,6 @@
 
 ### stats:
 <img align="center" alt="stats" src="http://github-readme-streak-stats.herokuapp.com?user=lenard-dumalagan&theme=blood-dark&hide_border=true" />
-<img align="center" alt="stats" src="https://user-images.githubusercontent.com/93557986/192979756-075530a5-6884-4b43-ab20-b4d37db95221.gif" />
 
 ---
 
@@ -29,4 +28,4 @@
 <img align="center" alt="views" src="https://komarev.com/ghpvc/?username=lenard-dumalagan&color=red&style=flat-square" />
 
 
-<img align="center" alt="views" height="220" src="https://user-images.githubusercontent.com/93557986/192979340-f25d1917-a7c0-4b4c-bb0b-8a50a452f97f.gif" />
+<img align="center" alt="stats" src="https://user-images.githubusercontent.com/93557986/192979756-075530a5-6884-4b43-ab20-b4d37db95221.gif" />
