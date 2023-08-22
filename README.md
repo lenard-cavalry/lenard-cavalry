@@ -3,7 +3,7 @@
 ---
 
 <img align="center" alt="norman" height="200" src="https://user-images.githubusercontent.com/93557986/191480165-6def95f9-0d1d-4652-8ae4-6f075157c07d.gif" />
-<img align="center" alt="header" src="https://readme-typing-svg.demolab.com?font=sans-serif&pause=1000&width=435&lines=Hiii!" />
+<img align="center" alt="header" src="https://readme-typing-svg.demolab.com?font=sans-serif&pause=1000&width=435&lines=Hello! I'm Lenard Viloria Dumalagan, a frontend web developer with a strong ability for crafting visually appealing and user-friendly websites. With over 2 years of professional experience, my journey in web development began with a fascination for turning creative ideas into digital realities. Through mastery of HTML, CSS, JavaScript, and as an expert in Next.js, I excel at building responsive websites that deliver a seamless experience across devices." />
 
 ---
 
