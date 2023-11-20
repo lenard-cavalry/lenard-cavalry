@@ -19,11 +19,6 @@
 
 ---
 
-### profile views:
-<img align="center" alt="views" src="https://komarev.com/ghpvc/?username=lenard-dumalagan&color=red&style=flat-square" />
-
----
-
 <img align="center" alt="stats" src="https://user-images.githubusercontent.com/93557986/192979756-075530a5-6884-4b43-ab20-b4d37db95221.gif" />
 
 ---
