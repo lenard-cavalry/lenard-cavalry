@@ -12,11 +12,6 @@
 
 ---
 
-### most used languages:
-<img align="center" alt="top-language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenard-dumalagan&layout=compact" />
-
----
-
 ### skills: 
 <p align="left">
    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts" />
